@@ -1,0 +1,35 @@
+
+   /*format for all page*/
+   body ,html {
+        background-image: url("bg1.jpg");
+      background-repeat: no-repeat;
+        height: 100%;
+        background-size: cover;
+      }
+      
+      
+ 
+#myname{
+text-align: left;
+}
+
+/*format for text*/
+h1 ,h2{
+    font-family: 'Chewy';
+    font-size: 22px;
+   
+
+}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
